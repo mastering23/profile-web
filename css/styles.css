@@ -1,0 +1,28 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+  padding: 60px;
+  background-color: lightskyblue;
+}
+h1{
+  color:white;
+  font-size: 4rem;
+}
+
+main{
+  padding: 60px;
+}
+
+footer{
+  padding:100px;
+  color: white;
+  background-color: black;
+}
+
+
+.copy-right-title{
+  place-self: center;
+}
