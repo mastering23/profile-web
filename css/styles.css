@@ -3,14 +3,20 @@
   padding: 0px;
 }
 
+h1{
+  color:white;
+  font-size: 6rem;
+}
+
 header{
   padding: 60px;
   background-color: lightskyblue;
 }
-h1{
-  color:white;
-  font-size: 4rem;
+a{
+  text-decoration: none;
+  
 }
+
 
 main{
   padding: 60px;
@@ -25,4 +31,28 @@ footer{
 
 .copy-right-title{
   place-self: center;
+}
+
+#pro-title-about-me{
+  font-size: 4rem;
+}
+
+.container{
+  display: flex;
+  margin-right: 200px;
+}
+
+.boxes{  
+  margin-right: 200px;
+}
+
+#engel-photo{
+  margin: 20px;
+  height: 300px;
+  border-radius: 20%;
+  border-style: dashed;
+  
+}
+p,ol,li,ul{
+  font-size: 1.2rem;
 }
