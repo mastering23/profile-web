@@ -1,0 +1,11 @@
+checking photos alt""
+-homepage good 
+-about page good
+-profile page good
+
+============================
+checking code indentecion 
+index.html good
+css.html good
+profile.html good
+
