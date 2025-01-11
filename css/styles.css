@@ -1,0 +1,101 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+
+h1 {
+  text-align: center;
+  color: white;
+  font-size: 4rem;
+}
+
+h2 {
+  font-weight: bolder;
+  font-size: 2rem;
+}
+
+p,
+ol,
+li,
+ul.h4 {
+  font-size: 1.4rem;
+}
+
+a {
+  font-size: large;
+  text-align: center;
+  text-decoration: none;
+  padding: 30px;
+  color:black;
+  font-weight: bolder;
+}
+
+a:hover{
+  color:red;
+}
+
+header {
+  text-align: center;
+  padding: 60px;
+  background-color: lightskyblue;
+  /* background-color:cornflowerblue; */
+  /* background-color:slategrey; */
+  /* background-color:darkgray; */
+}
+
+main {
+  place-self: center;
+  padding: 100px;
+}
+
+
+footer {
+  padding: 100px;
+  color: white;
+  background-color: black;
+}
+
+.container {
+  display: flex;
+  margin-right: 200px;
+}
+
+.boxes {
+  margin: 10px
+
+}
+
+.copy-right-title {
+  place-self: center;
+}
+.boxes-about-pg{
+margin-bottom: 30px;
+padding-left: 300px;
+
+}
+
+#pro-title-about-me {
+  font-size: 2.5rem;
+}
+
+#title-index-welcome {
+  font-size: 2rem;
+  font-family:'Courier New', Courier, monospace;
+  margin-bottom: 30px;
+}
+
+#engel-photo {
+  height: 150px;
+  border-radius: 20%;
+  border-style: dotted;
+
+}
+
+#index-logo {
+  margin-bottom: 50px;
+}
+#code-image{
+width: 300px;
+
+}
