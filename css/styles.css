@@ -71,6 +71,8 @@ footer {
 }
 .boxes-about-pg{
 margin-bottom: 30px;
+padding-left: 300px;
+
 }
 
 #pro-title-about-me {
@@ -84,7 +86,7 @@ margin-bottom: 30px;
 }
 
 #engel-photo {
-  height: 200px;
+  height: 150px;
   border-radius: 20%;
   border-style: dotted;
 
@@ -94,6 +96,6 @@ margin-bottom: 30px;
   margin-bottom: 50px;
 }
 #code-image{
-height: 200px;
+width: 300px;
 
 }
