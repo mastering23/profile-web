@@ -15,4 +15,4 @@ In this project, I designed a website named **Profile Webpages**. It includes a 
 - **HTML**: Worked with various elements to build the webpage layout, such as headers, paragraphs, and images.
 - **CSS**: Applied styles to enhance the page's look and feel, including fonts, colors, and layouts.
 - **Images**: Incorporated images to make the profile more visually appealing.
-- **JavaScript**: Added a simple `Hello World` alert for fun!
+- **JavaScript**: Added a simple `Hello World` alert!
